@@ -1,7 +1,6 @@
 # Changelog
 
-## 2.0.2 - 2026-02-06
-
+## Unreleased
 - Fixed: formatting with Stylelint 14 and 15 when using custom syntaxes ([#813](https://github.com/stylelint/vscode-stylelint/pull/813)).
 
 ## 2.0.1 - 2026-01-13
